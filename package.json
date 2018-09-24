@@ -1,8 +1,8 @@
 {
-  "name": "spdy-transport",
-  "version": "2.1.0",
+  "name": "itt-spdy-transport",
+  "version": "2.1.1",
   "main": "lib/spdy-transport",
-  "description": "SPDY v2, v3, v3.1 and HTTP2 transport",
+  "description": "A fork of spdy with resolved assertion error resolved.SPDY v2, v3, v3.1 and HTTP2 transport",
   "license": "MIT",
   "keywords": [
     "spdy",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/spdy-http2/spdy-transport.git"
+    "url": "https://github.com/InTimeTecGitHub/spdy-transport"
   },
   "homepage": "https://github.com/spdy-http2/spdy-transport",
   "author": "Fedor Indutny <fedor@indutny.com>",
