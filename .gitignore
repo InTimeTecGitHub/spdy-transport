@@ -2,3 +2,4 @@ node_modules/
 .vimrc
 **.log
 coverage
+.idea/
